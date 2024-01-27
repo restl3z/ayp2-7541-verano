@@ -1,0 +1,5 @@
+arroz	1450	0	25
+leche	700	1	50
+jamon	8.82	0	3500
+queso	200	0	550
+gaseosa	360	1	1000

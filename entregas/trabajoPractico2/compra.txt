@@ -1,0 +1,6 @@
+leche 2
+queso 250
+cafe 170
+detergente 230
+yerba 350
+shampoo 20
